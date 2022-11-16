@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "audiobook-projectcic",
+  "private_key_id": "f36a013c7af0eb6999a4eb2823a6fc617ae88423",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCTPLktyXo6NU1N\nVFu2RbEz1tsuzycj7q2YpzxMtD+ouC4nAn1GoCgazPWS/E2ol8NvRfQGJ9LC5YkS\nou9elQi+HoM3tZWucQdE1rvAUIt/pyFi3Yv5HIwzxAZHBf1RPpgq0j4UebIYJ3H2\nRLmOMxWBtQUPDt1W8YU2Ya5wvp56lQgVnE0gIOKuGMjEECM1YZJcaype84nkvHxR\nte3pCsMKrBgTBM2rPU7At96UVOqwTPUXJNHi0J9ySVYim9Nxj0RUz4UbtsjtQht8\nwy8prXUOYZV+cdj3NGQN8OHP9y2QuBS7mDFi5ta3ImFOSpVhZEX3kReuaY7WGaU+\ns16HvCSHAgMBAAECggEAN0XL9IrWpiRdXSLGfRIDmETXqmZcuKoApDZftiHSZgmi\nVcWi9tDnzUvVArVRh/FVDiAyH99ySPT3NLZS6uxCyHBW7SJvSvmmc2qzN9pky+qX\nZ3Bo+/8CCOrVOnNeqdG4ORcM9A3NVDD2oK8jA2Vc9QDaIdGAOQPY8NXRsQR2JOjc\nw9cDp3/8+v29dqEDwQog/KBqj5zf/DRP0ygPCXvkdx4fui69GUJ8MtPyZLRDJi5Y\nyCw+adv2qrWJtstwdAdTU0jt4SGiqzW8iDCVmj/DbOxCx7NPcUWykYZPrIHnoVKp\nSeCXUFRfImB3PJs0Jn55b47XYHZUqQiJNfiViib1rQKBgQDFLgfJECHvoNcF0YSr\nSmMh++Dvu+iFDxA8aX71uP1Pt4SP40+c8zeyDq3V9m4eGCmCUpNQMQKJa1sBKfhF\nYYWKYT2090SH1I10lHIf/HO1cU3KYivHAsOg5ykjE607j5swI0H7mpZD658c7irE\nXtI7+CTBwK8uyJur+CzkfmrOswKBgQC/KL3Ir659UHqeCmpFZMvLnqwA0EK1M3GS\nsXJl7vpEwVDihJ8stncmzGpdb2s3GY5mrS/kaPKGkL0UGv2p3HM5OCTfHCcrsFxf\n9sNtfk0PJp/+iNkw9lPeOAyh22klBmv7zH7MvDDCVw8ldcyonTGwx/bn2fib4Vb4\nuVNVdXN83QKBgQCdAsxcRKZhRDg0f+Qe6bsKoqE5BO5gleAd2vun+0hqo/3A/ga1\nOc8N0DaIfBSvjhnvloWLg5s7hesPgDYcOU23JTuX0JYXex+wx0whQEt7HeAN2iJ1\n9DOG+st9DPwSw4WVzV2LVkt1hjhLNzOC7uaFrlDGoAJfRIsBYzuML0YplQKBgQCv\n/qCMjkLGGTxrGQeykBSZiaKutQ9VqOFdv4Wll5pPhvQjORsbnXqh+/3JvHUnq53R\npo27a2wuvD94rUjyBIcJHUnFKDRgIuVJbPWMb4Ye9t7DB9d/HqskotHuiwWJExqE\nH0h20qTJqEHHqWcdrmw7aD9IQwSC77qVEHtK6PHE+QKBgAy7ELLihfJ8+BZPRJnL\nhqhDZdWy2Se+hkzOlReGP3FaPzgmRWXUCOkih9LycfvPM6dcongJwBUJsr/IDGKA\nXjq21FUKFos5RHuPX7BrQh5G5eNnzBGZDNK9EAhsOWcGXORWlPWwytjUvFhIfqhV\ncPfolMaNS8qU8OFp5N2PsKCN\n-----END PRIVATE KEY-----\n",
+  "client_email": "audiobookcic@audiobook-projectcic.iam.gserviceaccount.com",
+  "client_id": "118292867351978551404",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/audiobookcic%40audiobook-projectcic.iam.gserviceaccount.com"
+}
